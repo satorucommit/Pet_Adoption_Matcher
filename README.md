@@ -169,8 +169,3 @@ If you encounter any issues or have questions:
   Made with ❤️ for pets and their future families
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/your-username/pet-adoption-matcher?style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/forks/your-username/pet-adoption-matcher?style=social" alt="GitHub Forks" />
-  <img src="https://img.shields.io/github/issues/your-username/pet-adoption-matcher?style=social" alt="GitHub Issues" />
-</p>
